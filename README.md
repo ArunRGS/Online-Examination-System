@@ -1,26 +1,28 @@
-Overview
+Overview.........................................................
 The Online Examination System project is a web-based application developed in PHP and MySQL. The primary focus of the system is to facilitate online Multiple-Choice Question (MCQ) examinations, providing a streamlined process for administrators and students alike.
 
-Features
-Admin Panel Features
+Features.........................................................
+Admin Panel Features.............................................
 Question Management: Admins can efficiently manage multiple-choice questions, including creating, editing, and deleting questions.
 
-User Management: Admins have control over user management, enabling the listing and removal of registered users.
+User Management:.................................................
+Admins have control over user management, enabling the listing and removal of registered users.
 
-Student Panel Features
+Student Panel Features............................................
 Examination Attendance: Students can initiate examinations at any time and answer MCQs by selecting the correct checkboxes.
 
-Results and Analysis: The system displays the total score of the student at the end of each test. Students can review all answers post-examination.
+Results and Analysis:............................................. 
+The system displays the total score of the student at the end of each test. Students can review all answers post-examination.
 
-Dashboard Design
+Dashboard Design..................................................
 A clean and simple dashboard with various color combinations ensures a greater user experience.
-Feature Integration
+Feature Integration.................................................
 Integration of all features into the dashboard for a cohesive user experience.
-Implementation Phases
-Phase 1: Database and UI Setup
+Implementation Phases...............................................
+Phase 1: Database and UI Setup......................................
 Database schema design and implementation.
 Basic UI elements set up using Bootstrap and Vanilla CSS.
-Phase 2: Admin Panel Features
+Phase 2: Admin Panel Features.......................................
 Development of question management functionalities.
 Implementation of user management features.
 Phase 3: Student Panel Features
